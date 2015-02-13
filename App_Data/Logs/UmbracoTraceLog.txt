@@ -1306,3 +1306,4 @@ System.FormatException: Input string was not in a correct format.
 2015-02-13 12:05:37,543 [19] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
 2015-02-13 12:05:37,548 [19] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 4ms)
 2015-02-13 12:06:35,717 [19] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2014-12-15 12:06:35
+2015-02-13 12:08:02,111 [19] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2014-12-15 12:08:02
